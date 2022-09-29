@@ -40,3 +40,4 @@ for i in l:
         print(j, end=" ")
     x += 1
     print()
+    
