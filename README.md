@@ -11,3 +11,5 @@ I'm pursuing a B.Tech degree at Techno India NJR Institute of Technology, where 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaagarwal1506&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=krishnaagarwal1506&label=Profile%20Views&color=5&icon=2&pretty=true)](https://visitcount.itsvg.in)
