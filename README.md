@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm pursuing a B.Tech degree at Techno India NJR Institute of Technology, where I'm immersing myself in computer science.<br>As a passionate programmer, I have a strong interest in Data Structures, Algorithms, and competitive programming.<br>My goal is to blend this knowledge with my enthusiasm for Development to create intuitive applications using different technologies.<br>I'm excited to translate my education and skills into practical solutions, contribute to innovative projects, and learn from experienced professionals in the dynamic tech industry.
 
+## organization github profile
+[krishnagkmit](https://github.com/krishnagkmit)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnaagarwalcse) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@krishnaagarwalrock) 
