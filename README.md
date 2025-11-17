@@ -4,6 +4,6 @@
 ## organization github profile
 **Check out my active work here:**  
 - 🧩 [@krishnagkmit](https://github.com/krishnagkmit)  
-- 🚀 [@krishnaCvt](https://github.com/krishnaCvt)
+- 🚀 [@cvt-krishna-agarwal](https://github.com/cvt-krishna-agarwal)
 
 
