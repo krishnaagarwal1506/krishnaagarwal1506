@@ -1,9 +1,6 @@
-# I am Frontend engineer.
+# I am KrishnA Agarwal(Frontend Engineer)
 
-*Please check these Profiles to see organizational work history*
-## organization github profile
-**Check out my active work here:**  
-- 🧩 [@krishna-as-dev](https://github.com/krishna-as-dev)  
-- 🚀 [@cvt-krishna-agarwal](https://github.com/cvt-krishna-agarwal)
-
-
+# Other Profiles (Active work on them)
+*Other profiles because of organization restrictions*
+## [@krishna-as-dev](https://github.com/krishna-as-dev) 
+## [@cvt-krishna-agarwal](https://github.com/cvt-krishna-agarwal)
