@@ -1,4 +1,4 @@
-# I am KrishnA Agarwal(Frontend Engineer)
+# I am Krishna Agarwal
 
 # Other Profiles (Active work on them)
 *Other profiles because of organization restrictions*
