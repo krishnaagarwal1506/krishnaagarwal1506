@@ -67,45 +67,6 @@ Browser-native video engines, GenAI features, and open-source dev tooling
 
 <br>
 
-## 📌 Things I've Built (that I'm not embarrassed by)
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 [Indiacn-ui](https://github.com/krishnaagarwal1506/Indiacn-ui)
-ShadCN-style design system with 25+ WCAG 2.1 AA components, built for India-centric digital experiences.
-`TypeScript` `a11y` `Design System`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [vigle](https://github.com/krishnaagarwal1506/vigle)
-Self-hosted AI pull request reviewer powered by Claude. Reviews code so you don't have to argue with your teammate about tabs vs. spaces.
-`TypeScript` `AI` `DevTools`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 [accessibility-prototype](https://github.com/krishnaagarwal1506/accessibility-prototype)
-Chrome DevTools extension that publicly shames every non-keyboard-accessible element on a page.
-`TypeScript` `Chrome Extension` `a11y`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧹 [eslint-frontend-rules](https://github.com/krishnaagarwal1506/eslint-frontend-rules)
-17+ configurable ESLint rules so your team stops fighting about code style in PR comments.
-`JavaScript` `npm` `Linting`
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## 💼 Where I've Left Fingerprints
 
 **Frontend Engineer** · Spark Eighteen · *Sep 2023 – Present*
@@ -122,7 +83,7 @@ Since most of my actual commit activity lives on my company accounts, here's the
 
 **Contribution graphs**
 
-<div align="center">
+<!-- <div align="center">
 
 <sub>@krishnaagarwal1506 (personal)</sub>
 <br>
@@ -136,7 +97,7 @@ Since most of my actual commit activity lives on my company accounts, here's the
 <br>
 <img src="https://ghchart.rshah.org/8250df/cvt-krishna-agarwal" alt="cvt-krishna-agarwal contribution graph" width="90%" />
 
-</div>
+</div> -->
 
 **Streaks**
 
@@ -154,11 +115,17 @@ Since most of my actual commit activity lives on my company accounts, here's the
 
 <div align="center">
 
+<sub>@krishnaagarwal1506 (personal)</sub>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishnaagarwal1506-dark.svg" />
   <img alt="krishnaagarwal1506 contribution snake" src="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishnaagarwal1506.svg" />
 </picture>
 
+<sub>@cvt-krishna-agarwal (company)</sub>
+<br>
+<sub>@krishna-as-dev (company)</sub>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishna-as-dev-dark.svg" />
   <img alt="krishna-as-dev contribution snake" src="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishna-as-dev.svg" />
