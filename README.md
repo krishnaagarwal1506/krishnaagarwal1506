@@ -118,13 +118,27 @@ Shipped a React Native + Node.js app to 500+ users with 100% uptime — and yes,
 
 ## 📊 The Receipts
 
+Since most of my actual commit activity lives on my company accounts, here's the full picture across all three — the actual contribution calendars, then streaks, then snakes.
+
+**Contribution graphs**
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishnaagarwal1506&theme=tokyonight&no-frame=true&row=1&column=6" />
+<sub>@krishnaagarwal1506 (personal)</sub>
+<br>
+<img src="https://ghchart.rshah.org/61dafb/krishnaagarwal1506" alt="krishnaagarwal1506 contribution graph" width="90%" />
+
+<sub>@krishna-as-dev (company)</sub>
+<br>
+<img src="https://ghchart.rshah.org/3178c6/krishna-as-dev" alt="krishna-as-dev contribution graph" width="90%" />
+
+<sub>@cvt-krishna-agarwal (company)</sub>
+<br>
+<img src="https://ghchart.rshah.org/8250df/cvt-krishna-agarwal" alt="cvt-krishna-agarwal contribution graph" width="90%" />
 
 </div>
 
-Since most of my actual commit activity lives on my company accounts, here's the full picture across all three — streaks first, snakes below:
+**Streaks**
 
 <div align="center">
 
@@ -134,7 +148,11 @@ Since most of my actual commit activity lives on my company accounts, here's the
 
 <sub>@krishnaagarwal1506 (personal) · @krishna-as-dev (company) · @cvt-krishna-agarwal (company)</sub>
 
-<br><br>
+</div>
+
+**Snakes** *(shows up once the `snake.yml` workflow below has run at least once on this repo)*
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishnaagarwal1506-dark.svg" />
