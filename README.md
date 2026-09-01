@@ -122,8 +122,6 @@ Since most of my actual commit activity lives on my company accounts, here's the
   <img alt="krishnaagarwal1506 contribution snake" src="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishnaagarwal1506.svg" />
 </picture>
 
-<sub>@cvt-krishna-agarwal (company)</sub>
-<br>
 <sub>@krishna-as-dev (company)</sub>
 <br>
 <picture>
@@ -131,6 +129,8 @@ Since most of my actual commit activity lives on my company accounts, here's the
   <img alt="krishna-as-dev contribution snake" src="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishna-as-dev.svg" />
 </picture>
 
+<sub>@cvt-krishna-agarwal (company)</sub>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/cvt-krishna-agarwal-dark.svg" />
   <img alt="cvt-krishna-agarwal contribution snake" src="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/cvt-krishna-agarwal.svg" />
