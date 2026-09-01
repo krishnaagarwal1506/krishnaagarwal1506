@@ -120,19 +120,35 @@ Shipped a React Native + Node.js app to 500+ users with 100% uptime — and yes,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnaagarwal1506&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaagarwal1506&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaagarwal1506&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=krishnaagarwal1506&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+Since most of my actual commit activity lives on my company accounts, here's the full picture across all three — streaks first, snakes below:
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaagarwal1506&theme=tokyonight&hide_border=true&card_width=380" width="32%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-as-dev&theme=tokyonight&hide_border=true&card_width=380" width="32%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cvt-krishna-agarwal&theme=tokyonight&hide_border=true&card_width=380" width="32%" />
+
+<sub>@krishnaagarwal1506 (personal) · @krishna-as-dev (company) · @cvt-krishna-agarwal (company)</sub>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishnaagarwal1506-dark.svg" />
+  <img alt="krishnaagarwal1506 contribution snake" src="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishnaagarwal1506.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishna-as-dev-dark.svg" />
+  <img alt="krishna-as-dev contribution snake" src="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/krishna-as-dev.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/cvt-krishna-agarwal-dark.svg" />
+  <img alt="cvt-krishna-agarwal contribution snake" src="https://raw.githubusercontent.com/krishnaagarwal1506/krishnaagarwal1506/output/cvt-krishna-agarwal.svg" />
 </picture>
 
 </div>

@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake Animations
 
 on:
   schedule:
@@ -15,15 +15,32 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake game from contribution grid
+      # Personal / open-source profile
+      - name: Snake — krishnaagarwal1506
         uses: Platane/snk@v3
-        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: krishnaagarwal1506
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/krishnaagarwal1506.svg
+            dist/krishnaagarwal1506-dark.svg?palette=github-dark
+
+      # Company profile #1
+      - name: Snake — krishna-as-dev
+        uses: Platane/snk@v3
+        with:
+          github_user_name: krishna-as-dev
+          outputs: |
+            dist/krishna-as-dev.svg
+            dist/krishna-as-dev-dark.svg?palette=github-dark
+
+      # Company profile #2
+      - name: Snake — cvt-krishna-agarwal
+        uses: Platane/snk@v3
+        with:
+          github_user_name: cvt-krishna-agarwal
+          outputs: |
+            dist/cvt-krishna-agarwal.svg
+            dist/cvt-krishna-agarwal-dark.svg?palette=github-dark
 
       - name: Push snake output to output branch
         uses: crazy-max/ghaction-github-pages@v4
