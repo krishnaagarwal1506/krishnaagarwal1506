@@ -15,6 +15,10 @@
 
 <br>
 
+> ⚠️ **Heads up:** most of my day-to-day commits happen on my *company* GitHub accounts, not here — org policy, not laziness. The bulk of the real activity lives at [@krishna-as-dev](https://github.com/krishna-as-dev) and [@cvt-krishna-agarwal](https://github.com/cvt-krishna-agarwal). This profile is the personal/open-source one, so don't judge the contribution graph too harshly. 😅
+
+<br>
+
 ## 👋 The Pitch
 
 ```txt
@@ -38,7 +42,7 @@ Browser-native video engines, GenAI features, and open-source dev tooling
 - 🧩 Obsessed with accessibility — if it's not keyboard-navigable, it's not done
 - 🛠️ Maintain open-source tools that scratch my own itch (and hopefully yours too)
 - 📍 Udaipur, India · 🕐 usually online at questionable hours
-- 🃏 Plot twist: I run **three** GitHub accounts because of org restrictions. This is the one where the real work happens — the alter egos are [@krishna-as-dev](https://github.com/krishna-as-dev) and [@cvt-krishna-agarwal](https://github.com/cvt-krishna-agarwal)
+- 🃏 Fun fact: three GitHub accounts, one person — see the note above if you skipped it
 
 <br>
 
@@ -116,8 +120,8 @@ Shipped a React Native + Node.js app to 500+ users with 100% uptime — and yes,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnaagarwal1506&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaagarwal1506&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnaagarwal1506&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaagarwal1506&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaagarwal1506&theme=tokyonight&hide_border=true" />
 
